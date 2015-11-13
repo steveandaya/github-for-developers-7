@@ -2,4 +2,4 @@
 -[ ] check1
 -[ ] check 2
 
-Favorite color: blue
+Favorite color: blue and red
